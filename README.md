@@ -4,4 +4,4 @@ Repositorio para mi proyecto del portafolio y posibles proyectos futuros relacio
 
 ## Proyectos
 
-- [Portafolio](https://Leonardo-Negrete.github.io/Portafolios/portafolio-l)
+- [Portafolio](https://leonardo-negrete.github.io/portafolios/portafolio-l)
