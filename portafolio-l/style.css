@@ -1,4 +1,4 @@
-/*Custom Propérties*/
+
 :root{
     --primer-color: #900C3F;
     --primer-alpha-color: rgba(144, 12, 63 , 0.75);
@@ -22,7 +22,7 @@
     
 }
 
-/*Reset*/
+
 html{
     box-sizing: border-box;
     font-family:var(--font);
@@ -90,9 +90,6 @@ p{
     line-height: 1.66;
 }
 
-/*Components*/
-
-/*Hero image*/
 .hero-image{
     background-image: var(--hero-image);
     background-repeat: no-repeat;
@@ -116,7 +113,7 @@ p{
     color: var(--hero-text-color);
 }
 
-/*Menu*/
+
 .menu-btn{
     outline: thin solid var(--primer-color);
     border: 0;
@@ -183,7 +180,7 @@ p{
 
 }
 
-/*Modal*/
+
 .modal{
     position: fixed;
     z-index: 999;
@@ -221,7 +218,7 @@ p{
     pointer-events: auto;
 }
 
-/*Utilities*/
+
 .box-shadow-1{
    box-shadow: 0.25rem 0.25rem 1rem rgba(0, 0, 0, 0.25);
 }
@@ -285,7 +282,7 @@ p{
     }
 }
 
-/*Site Styles*/
+
 .about>article{
     margin-bottom: 2rem;
 }
