@@ -1,10 +1,10 @@
 
 :root{
-    --primer-color: #900C3F;
+    --primer-color: #85425f;
     --primer-alpha-color: rgba(144, 12, 63 , 0.75);
-    --segundo-color: #93EAC7;
+    --segundo-color: #333769;
     --segundo-alpha-color:rgba(20, 25, 45, 1);
-    --tercer-color:#AB1374;
+    --tercer-color:#0d0d38;
     --tercer-alpha-color:rgba(80, 20, 100, 1);
     --blanco-color: #fff;
     --gris-claro-color: #f3f3f3;
